@@ -2,6 +2,17 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+function retrieveJSON() {
+  var request = new XMLHttpRequest();
+  request.open('GET', 'https://www.linticket.no/json/Kvarteret/index.php3?StartDato=2018-01-18&Maks=10');
+  request.onload = function () {
+    var data = JSON.parse(this.response);
+    //Parse here
+  }
+
+  request.send();
+}
+
 class App extends Component {
   render() {
     return (
