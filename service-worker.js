@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kvarteret_infopanel/precache-manifest.9a2d28041788ad580472557816146409.js"
+  "/kvarteret_infopanel/precache-manifest.1c3e960c83cb4a9de5385edb9f8bcada.js"
 );
 
 workbox.clientsClaim();

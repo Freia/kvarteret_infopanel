@@ -1,7 +1,7 @@
 {
   "main.css": "/kvarteret_infopanel/static/css/main.2b09b31c.chunk.css",
-  "main.js": "/kvarteret_infopanel/static/js/main.7db71299.chunk.js",
-  "main.js.map": "/kvarteret_infopanel/static/js/main.7db71299.chunk.js.map",
+  "main.js": "/kvarteret_infopanel/static/js/main.807b28e4.chunk.js",
+  "main.js.map": "/kvarteret_infopanel/static/js/main.807b28e4.chunk.js.map",
   "static/js/1.a700ff87.chunk.js": "/kvarteret_infopanel/static/js/1.a700ff87.chunk.js",
   "static/js/1.a700ff87.chunk.js.map": "/kvarteret_infopanel/static/js/1.a700ff87.chunk.js.map",
   "runtime~main.js": "/kvarteret_infopanel/static/js/runtime~main.54230708.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/kvarteret_infopanel/static/media/logo.5d5d9eef.svg",
   "static/css/main.2b09b31c.chunk.css.map": "/kvarteret_infopanel/static/css/main.2b09b31c.chunk.css.map",
   "index.html": "/kvarteret_infopanel/index.html",
-  "precache-manifest.9a2d28041788ad580472557816146409.js": "/kvarteret_infopanel/precache-manifest.9a2d28041788ad580472557816146409.js",
+  "precache-manifest.1c3e960c83cb4a9de5385edb9f8bcada.js": "/kvarteret_infopanel/precache-manifest.1c3e960c83cb4a9de5385edb9f8bcada.js",
   "service-worker.js": "/kvarteret_infopanel/service-worker.js"
 }
